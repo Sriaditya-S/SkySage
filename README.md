@@ -5,13 +5,13 @@ The project is Divided into 3 parts [FILES]  breifly:
 
 ___ HOW TO RUN / EXECUTE THE PROJECT ___
 
-STEP 1: CLONE the repository or download all the files. 
-STEP 2: OPEN weather_forecating and install all dependencies. 
-STEP 3: Run weather_forecasting in local server using following commands:
+a. STEP 1: CLONE the repository or download all the files. 
+b. STEP 2: OPEN weather_forecating and install all dependencies.
+c. STEP 3: Run weather_forecasting in local server using following commands:
                   -> 1. npm i
                   -> 2. npm start
-                  (website will run in "http://localhost:3000/" by default
-STEP 4: NAVIGATE  to main_website and open the index.html file in your browser...
+                  (website will run in "http://localhost:3000/" by default )
+d. STEP 4: NAVIGATE  to main_website and open the index.html file in your browser...
 ( WEBSITE RUNS SMOOTHLY )
 
 Abstract:
