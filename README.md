@@ -74,4 +74,4 @@ Project Highlights:
 •	Modern Tech Stack: Leverages cutting-edge technologies for optimal performance and maintainability.
 
 Overall, SkySage offers a compelling solution for users seeking both comprehensive weather forecasts and a personalized touch for their devices.
-![Uploading image.png…]()
+
